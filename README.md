@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Andressa 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=700&lines=Dev+full+stack+em+forma%C3%A7%C3%A3o;Em+busca+de+uma+vaga+j%C3%BAnior+em+Portugal;Apaixonada+por+construir+coisas+%C3%BAteis" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=700&lines=Desenvolvedora+Full+Stack;React+%2B+TypeScript+%2B+Node.js+%2B+PostgreSQL;Dispon%C3%ADvel+para+oportunidades+em+Portugal" alt="Typing animation" />
 </p>
 
 ---
@@ -10,10 +10,10 @@
 
 - 🎓 Estudante de **Sistemas de Informação**
 - 🇧🇷 ➡️ 🇵🇹 Brasileira morando em Portugal
-- 💼 Background em **suporte de sistemas** — agora em transição para desenvolvimento
-- 🌱 Aprendendo na prática construindo **projetos full stack do zero**
-- 🎯 **Em busca da minha primeira vaga como dev júnior** em Portugal
-- 💬 Falo Português (BR/PT) e inglês técnico
+- 💼 Experiência prévia em **suporte de sistemas**
+- 🛠️ Desenvolvo **projetos full stack ponta a ponta** — do banco ao deploy
+- 🎯 **Disponível para oportunidades como desenvolvedora júnior** em Portugal
+- 💬 Português e inglês
 
 ---
 
@@ -56,8 +56,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressamn&layout=compact&hide_border=true&title_color=10b981&text_color=cbd5e1&bg_color=0f172a" />
 </p>
 
-> 💡 O gráfico de linguagens à direita atualiza automaticamente conforme novos projetos são adicionados.
-
 ---
 
 ## 🚀 Projeto em destaque
@@ -92,8 +90,4 @@ App full stack para controle financeiro pessoal — receitas, despesas, orçamen
   <a href="https://github.com/Andressamn">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andressamn&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=10b981&style=flat" alt="Profile views" />
 </p>
