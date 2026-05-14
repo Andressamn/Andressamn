@@ -67,8 +67,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andressamn&show_icons=true&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=cbd5e1&bg_color=0f172a" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressamn&layout=compact&hide_border=true&title_color=a78bfa&text_color=cbd5e1&bg_color=0f172a" />
+  <img src="https://streak-stats.demolab.com?user=Andressamn&hide_border=true&background=0F172A&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA&sideNums=CBD5E1&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=CBD5E1" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Andressamn&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
